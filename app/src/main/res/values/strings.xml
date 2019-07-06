@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">User Register</string>
+    <string name="ingresar_label">Ingresar</string>
+    <string name="lista_usuarios">Listado</string>
+    <string name="registro">Registro</string>
+    <string name="registro_de_asistentes">Registro de asistentes</string>
+    <string name="usuarios_registrados">Usuarios registrados</string>
+    <string name="ingresar">Ingresar</string>
+    <string name="editar">Editar</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="editar_titulo">Editar Usuario</string>
+    <string name="guardar">Guardar</string>
+    <string name="list_view">ListView</string>
+</resources>
